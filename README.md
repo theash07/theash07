@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development,software engineering,and exploring new technologies..
 - 🌱 I’m currently learning full stack development and enhancing my skill in java and java script
 - 💞️ I’m looking to collaborate on open-soucre projects and innovative web development ideas 
-- 📫 How to reach me (ashishyadavmau2@gmail.com) and my linkdin profile is (theash07)
+- 📫 How to reach me (ashishyadavmau2@gmail.com) and my linkdin profile is (https://www.linkedin.com/in/theash07)
 - ⚡ Fun fact: I am a district-level cricket player and a formare college basketball captain!
 
 <!---
